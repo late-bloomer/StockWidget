@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchBar Component should render SearchBar Successfully 1`] = `
+<SearchBar
+  classes={
+    Object {
+      "paperNoOpt": "SearchBar-paperNoOpt-2",
+      "paperNoOptDiv": "SearchBar-paperNoOptDiv-3",
+      "searchBar": "SearchBar-searchBar-1",
+    }
+  }
+/>
+`;

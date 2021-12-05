@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component should render App Successfully 1`] = `
+<ForwardRef(Box)
+  sx={
+    Object {
+      "flexGrow": 1,
+    }
+  }
+>
+  <ForwardRef(Grid)
+    container={true}
+  >
+    <ForwardRef(Grid)
+      item={true}
+      lg={12}
+      md={12}
+      sm={12}
+      xl={12}
+      xs={12}
+    >
+      <Styled(ForwardRef(Paper))>
+        <Header />
+      </Styled(ForwardRef(Paper))>
+    </ForwardRef(Grid)>
+    <ForwardRef(Grid)
+      item={true}
+      lg={12}
+      md={12}
+      sm={12}
+      xl={12}
+      xs={12}
+    >
+      <Styled(ForwardRef(Paper))>
+        <WithStyles(StockPickerWidget) />
+      </Styled(ForwardRef(Paper))>
+    </ForwardRef(Grid)>
+  </ForwardRef(Grid)>
+</ForwardRef(Box)>
+`;
+
+exports[`should render App Successfully 1`] = `
+<ForwardRef(Box)
+  sx={
+    Object {
+      "flexGrow": 1,
+    }
+  }
+>
+  <ForwardRef(Grid)
+    container={true}
+  >
+    <ForwardRef(Grid)
+      item={true}
+      lg={12}
+      md={12}
+      sm={12}
+      xl={12}
+      xs={12}
+    >
+      <Styled(ForwardRef(Paper))>
+        <Header />
+      </Styled(ForwardRef(Paper))>
+    </ForwardRef(Grid)>
+    <ForwardRef(Grid)
+      item={true}
+      lg={12}
+      md={12}
+      sm={12}
+      xl={12}
+      xs={12}
+    >
+      <Styled(ForwardRef(Paper))>
+        <WithStyles(StockPickerWidget) />
+      </Styled(ForwardRef(Paper))>
+    </ForwardRef(Grid)>
+  </ForwardRef(Grid)>
+</ForwardRef(Box)>
+`;

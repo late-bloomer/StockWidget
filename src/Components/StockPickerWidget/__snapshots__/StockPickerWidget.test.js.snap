@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StockPickerWidget Component should render StockPickerWidget Successfully 1`] = `
+<StockPickerWidget
+  classes={
+    Object {
+      "stockPickerWidgetContainer": "StockPickerWidget-stockPickerWidgetContainer-1",
+    }
+  }
+/>
+`;

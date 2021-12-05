@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StockDetails Component should render StockDetails Successfully 1`] = `
+<StockDetails
+  classes={
+    Object {
+      "arrowBack": "StockDetails-arrowBack-6",
+      "arrowForward": "StockDetails-arrowForward-5",
+      "detailsElement": "StockDetails-detailsElement-3",
+      "detailsElementName": "StockDetails-detailsElementName-4",
+      "detailsElementNoRecords": "StockDetails-detailsElementNoRecords-9",
+      "noRecords": "StockDetails-noRecords-7",
+      "paper": "StockDetails-paper-1",
+      "resultSearch": "StockDetails-resultSearch-8",
+      "stockDetailsHeader": "StockDetails-stockDetailsHeader-2",
+    }
+  }
+/>
+`;

@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Component should render Header Successfully 1`] = `
+<div
+  className="headerContainer"
+>
+  <div
+    className="leftText"
+  >
+    Hello Intuit
+  </div>
+  <div
+    className="widText"
+  >
+    STOCK PICKER WIDGET
+  </div>
+</div>
+`;
